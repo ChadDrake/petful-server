@@ -11,8 +11,8 @@ API DOCUMENTATION:
 /api/pets DELETE takes in a string of either cat or dog, dequeues either the cat or dog based on string, and dequeues the people queue as well
 
 ![petful-landing](/images/petful-landing.PNG)
-![petful-line](/images/petful-line.PNG
-![petful-adopt](/images/petful-adopt.PNG
+![petful-line](/images/petful-line.PNG)
+![petful-adopt](/images/petful-adopt.PNG)
 
 TECHNOLOGY
 Express, node.js,
