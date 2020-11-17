@@ -7,7 +7,7 @@ class Queue {
   }
 
   enqueue(data) {
-    const node = new _Node(data);
+    const node = new _Node(data, null);
 
     if (this.first === null) {
       this.first = node;
